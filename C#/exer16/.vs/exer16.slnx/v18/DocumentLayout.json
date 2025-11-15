@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{611EA389-001E-4B48-8CDB-40451CF9C2D1}|exer16\\exer16.csproj|c:\\users\\utilizador4\\desktop\\projectos\\c#\\exer16\\exer16\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611EA389-001E-4B48-8CDB-40451CF9C2D1}|exer16\\exer16.csproj|solutionrelative:exer16\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611EA389-001E-4B48-8CDB-40451CF9C2D1}|exer16\\exer16.csproj|c:\\users\\utilizador4\\desktop\\projectos\\c#\\exer16\\exer16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611EA389-001E-4B48-8CDB-40451CF9C2D1}|exer16\\exer16.csproj|solutionrelative:exer16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611EA389-001E-4B48-8CDB-40451CF9C2D1}|exer16\\exer16.csproj|c:\\users\\utilizador4\\desktop\\projectos\\c#\\exer16\\exer16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{611EA389-001E-4B48-8CDB-40451CF9C2D1}|exer16\\exer16.csproj|solutionrelative:exer16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer16\\exer16\\Form1.cs",
+              "RelativeDocumentMoniker": "exer16\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer16\\exer16\\Form1.cs",
+              "RelativeToolTip": "exer16\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:24:05.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer16\\exer16\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer16\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer16\\exer16\\Form1.Designer.cs",
+              "RelativeToolTip": "exer16\\Form1.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:23:54.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer16\\exer16\\Form1.cs",
+              "RelativeDocumentMoniker": "exer16\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer16\\exer16\\Form1.cs [Projeto]",
+              "RelativeToolTip": "exer16\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:22:45.593Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

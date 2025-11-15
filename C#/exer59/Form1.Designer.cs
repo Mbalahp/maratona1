@@ -1,0 +1,1 @@
+namespace exer59{partial class Form1{private System.ComponentModel.IContainer c=null;}}

@@ -1,0 +1,16 @@
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\bin\Debug\net10.0-windows\exer24.exe
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\bin\Debug\net10.0-windows\exer24.deps.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\bin\Debug\net10.0-windows\exer24.runtimeconfig.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\bin\Debug\net10.0-windows\exer24.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\bin\Debug\net10.0-windows\exer24.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.Form1.resources
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.csproj.GenerateResource.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.AssemblyInfoInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.AssemblyInfo.cs
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\refint\exer24.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\exer24.genruntimeconfig.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer24\exer24\obj\Debug\net10.0-windows\ref\exer24.dll

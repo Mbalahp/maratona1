@@ -1,0 +1,82 @@
+namespace exer17
+{
+    public partial class Form1 : Form
+    {
+        private long contagemDivisoes;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private bool EhPrimo(int numero, out long divisoes)
+        {
+            divisoes = 0;
+
+            if (numero < 2)
+                return false;
+            if (numero == 2)
+                return true;
+            if (numero % 2 == 0)
+            {
+                divisoes = 1;
+                return false;
+            }
+
+            divisoes = 1;
+            int raizQuadrada = (int)Math.Sqrt(numero);
+
+            for (int i = 3; i <= raizQuadrada; i += 2)
+            {
+                divisoes++;
+                if (numero % i == 0)
+                    return false;
+            }
+
+            return true;
+        }
+
+        private void CalcularPrimos(int n)
+        {
+            contagemDivisoes = 0;
+            List<int> primos = new List<int>();
+
+            for (int i = 2; i <= n; i++)
+            {
+                if (EhPrimo(i, out long divisoes))
+                {
+                    primos.Add(i);
+                    contagemDivisoes += divisoes;
+                }
+                else
+                {
+                    contagemDivisoes += divisoes;
+                }
+            }
+
+            ExibirResultados(primos);
+        }
+
+        private void ExibirResultados(List<int> primos)
+        {
+            var caixaTextoNumeros = (TextBox)Controls["caixaTextoNumeros"];
+            var caixaTxtoDivisoes = (TextBox)Controls["caixaTxtoDivisoes"];
+
+            if (primos.Count == 0)
+            {
+                caixaTextoNumeros.Text = "Nenhum número primo encontrado.";
+                caixaTxtoDivisoes.Text = contagemDivisoes.ToString();
+                return;
+            }
+
+            var textoNumeros = string.Join(", ", primos);
+            caixaTextoNumeros.Text = textoNumeros;
+            caixaTxtoDivisoes.Text = contagemDivisoes.ToString();
+        }
+
+        private void rotulN_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

@@ -1,0 +1,108 @@
+﻿namespace exer17
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            
+            var labelN = new Label();
+            var textBoxN = new TextBox();
+            var buttonCalculate = new Button();
+            var labelPrimes = new Label();
+            var textBoxPrimes = new TextBox();
+            var labelDivisions = new Label();
+            var textBoxDivisions = new TextBox();
+
+            SuspendLayout();
+
+            labelN.AutoSize = true;
+            labelN.Location = new Point(20, 20);
+            labelN.Name = "labelN";
+            labelN.Size = new Size(100, 20);
+            labelN.Text = "Enter N:";
+
+            textBoxN.Location = new Point(120, 20);
+            textBoxN.Name = "textBoxN";
+            textBoxN.Size = new Size(200, 27);
+            textBoxN.TabIndex = 1;
+
+            buttonCalculate.Location = new Point(340, 20);
+            buttonCalculate.Name = "buttonCalculate";
+            buttonCalculate.Size = new Size(100, 27);
+            buttonCalculate.TabIndex = 2;
+            buttonCalculate.Text = "Calculate";
+            buttonCalculate.UseVisualStyleBackColor = true;
+            buttonCalculate.Click += ButtonCalculate_Click;
+
+            labelPrimes.AutoSize = true;
+            labelPrimes.Location = new Point(20, 70);
+            labelPrimes.Name = "labelPrimes";
+            labelPrimes.Size = new Size(100, 20);
+            labelPrimes.Text = "Prime Numbers:";
+
+            textBoxPrimes.Location = new Point(20, 100);
+            textBoxPrimes.Name = "textBoxPrimes";
+            textBoxPrimes.Multiline = true;
+            textBoxPrimes.ScrollBars = ScrollBars.Both;
+            textBoxPrimes.ReadOnly = true;
+            textBoxPrimes.Size = new Size(750, 300);
+            textBoxPrimes.TabIndex = 3;
+
+            labelDivisions.AutoSize = true;
+            labelDivisions.Location = new Point(20, 410);
+            labelDivisions.Name = "labelDivisions";
+            labelDivisions.Size = new Size(150, 20);
+            labelDivisions.Text = "Number of Divisions:";
+
+            textBoxDivisions.Location = new Point(180, 410);
+            textBoxDivisions.Name = "textBoxDivisions";
+            textBoxDivisions.ReadOnly = true;
+            textBoxDivisions.Size = new Size(200, 27);
+            textBoxDivisions.TabIndex = 4;
+
+            ClientSize = new Size(800, 460);
+            Controls.Add(labelN);
+            Controls.Add(textBoxN);
+            Controls.Add(buttonCalculate);
+            Controls.Add(labelPrimes);
+            Controls.Add(textBoxPrimes);
+            Controls.Add(labelDivisions);
+            Controls.Add(textBoxDivisions);
+            Name = "Form1";
+            Text = "Prime Number Finder";
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private void ButtonCalculate_Click(object sender, EventArgs e)
+        {
+        }
+    }
+}

@@ -1,0 +1,1723 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{078E9B14-EE21-4854-B0AB-FF3FCF1FE76E}|exer24\\exer24.csproj|c:\\users\\utilizador4\\desktop\\projectos\\c#\\exer24\\exer24\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078E9B14-EE21-4854-B0AB-FF3FCF1FE76E}|exer24\\exer24.csproj|solutionrelative:exer24\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078E9B14-EE21-4854-B0AB-FF3FCF1FE76E}|exer24\\exer24.csproj|c:\\users\\utilizador4\\desktop\\projectos\\c#\\exer24\\exer24\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{078E9B14-EE21-4854-B0AB-FF3FCF1FE76E}|exer24\\exer24.csproj|solutionrelative:exer24\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\exer25.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer25\\exer25.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer25\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer25\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer25\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer25\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\exer26.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer26\\exer26.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer26\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer26\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer26\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer26\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\exer27.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer27\\exer27.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer28\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer27\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer28\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer28\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer27\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer28\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\exer28.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer28\\exer28.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer27\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer27\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\exer29.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer29\\exer29.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer29\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer29\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer29\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer29\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\exer30.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer30\\exer30.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer30\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer30\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer30\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer30\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\exer32.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer32\\exer32.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer32\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer32\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer32\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer32\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\exer33.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer33\\exer33.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer33\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer33\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer33\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer33\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\exer34.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer34\\exer34.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer34\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer34\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer34\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer34\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\exer35.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer35\\exer35.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer35\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer35\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer35\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer35\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer36\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\exer36.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer36\\exer36.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer36\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer36\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer36\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\exer37.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer37\\exer37.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer37\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer37\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer37\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer37\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\exer38.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer38\\exer38.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer38\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer38\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer38\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer38\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\exer39.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer39\\exer39.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer39\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer39\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer39\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer39\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\exer40.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer40\\exer40.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer40\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer40\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer40\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer40\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\exer41.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer41\\exer41.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer41\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer41\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer41\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer41\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\exer42.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer42\\exer42.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer42\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer42\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer42\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer42\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\EXERCICIOS_43_A_100.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EXERCICIOS_43_A_100.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\exer43.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer43\\exer43.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer43\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer43\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer43\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer43\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\TEMPLATE_CRIACAO.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEMPLATE_CRIACAO.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\exer44.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer44\\exer44.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer44\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer44\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer44\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exer44\\Form1.resx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\RELATORIO_EXERCICIOS_100.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RELATORIO_EXERCICIOS_100.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 99,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "RELATORIO_EXERCICIOS_100.md",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\RELATORIO_EXERCICIOS_100.md",
+              "RelativeDocumentMoniker": "RELATORIO_EXERCICIOS_100.md",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\RELATORIO_EXERCICIOS_100.md",
+              "RelativeToolTip": "RELATORIO_EXERCICIOS_100.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-15T03:33:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.resx",
+              "RelativeDocumentMoniker": "exer44\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.resx",
+              "RelativeToolTip": "exer44\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:32:49.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer44\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.Designer.cs",
+              "RelativeToolTip": "exer44\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:32:43.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.cs",
+              "RelativeDocumentMoniker": "exer44\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Form1.cs",
+              "RelativeToolTip": "exer44\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:32:39.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Program.cs",
+              "RelativeDocumentMoniker": "exer44\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\Program.cs",
+              "RelativeToolTip": "exer44\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:32:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "exer44.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\exer44.csproj",
+              "RelativeDocumentMoniker": "exer44\\exer44.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer44\\exer44.csproj",
+              "RelativeToolTip": "exer44\\exer44.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:32:31.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "TEMPLATE_CRIACAO.md",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\TEMPLATE_CRIACAO.md",
+              "RelativeDocumentMoniker": "TEMPLATE_CRIACAO.md",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\TEMPLATE_CRIACAO.md",
+              "RelativeToolTip": "TEMPLATE_CRIACAO.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-15T03:32:28.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.resx",
+              "RelativeDocumentMoniker": "exer43\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.resx",
+              "RelativeToolTip": "exer43\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:32:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer43\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.Designer.cs",
+              "RelativeToolTip": "exer43\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:32:09.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.cs",
+              "RelativeDocumentMoniker": "exer43\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Form1.cs",
+              "RelativeToolTip": "exer43\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:32:06.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Program.cs",
+              "RelativeDocumentMoniker": "exer43\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\Program.cs",
+              "RelativeToolTip": "exer43\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:32:00.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "exer43.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\exer43.csproj",
+              "RelativeDocumentMoniker": "exer43\\exer43.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer43\\exer43.csproj",
+              "RelativeToolTip": "exer43\\exer43.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:31:57.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "EXERCICIOS_43_A_100.md",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\EXERCICIOS_43_A_100.md",
+              "RelativeDocumentMoniker": "EXERCICIOS_43_A_100.md",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\EXERCICIOS_43_A_100.md",
+              "RelativeToolTip": "EXERCICIOS_43_A_100.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-15T03:31:52.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.resx",
+              "RelativeDocumentMoniker": "exer42\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.resx",
+              "RelativeToolTip": "exer42\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:31:36.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer42\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.Designer.cs",
+              "RelativeToolTip": "exer42\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:31:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.cs",
+              "RelativeDocumentMoniker": "exer42\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Form1.cs",
+              "RelativeToolTip": "exer42\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:31:23.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Program.cs",
+              "RelativeDocumentMoniker": "exer42\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\Program.cs",
+              "RelativeToolTip": "exer42\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:31:18.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "exer42.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\exer42.csproj",
+              "RelativeDocumentMoniker": "exer42\\exer42.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer42\\exer42.csproj",
+              "RelativeToolTip": "exer42\\exer42.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:31:15.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer41\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.Designer.cs",
+              "RelativeToolTip": "exer41\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:10:10.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.cs",
+              "RelativeDocumentMoniker": "exer41\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.cs",
+              "RelativeToolTip": "exer41\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:10:10.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.resx",
+              "RelativeDocumentMoniker": "exer41\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Form1.resx",
+              "RelativeToolTip": "exer41\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:10:10.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Program.cs",
+              "RelativeDocumentMoniker": "exer41\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\Program.cs",
+              "RelativeToolTip": "exer41\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:10:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "exer41.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\exer41.csproj",
+              "RelativeDocumentMoniker": "exer41\\exer41.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer41\\exer41.csproj",
+              "RelativeToolTip": "exer41\\exer41.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:10:10.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer40\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.Designer.cs",
+              "RelativeToolTip": "exer40\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:09:59.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.resx",
+              "RelativeDocumentMoniker": "exer40\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.resx",
+              "RelativeToolTip": "exer40\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:09:59.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.cs",
+              "RelativeDocumentMoniker": "exer40\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Form1.cs",
+              "RelativeToolTip": "exer40\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:09:59.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Program.cs",
+              "RelativeDocumentMoniker": "exer40\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\Program.cs",
+              "RelativeToolTip": "exer40\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:09:59.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "exer40.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\exer40.csproj",
+              "RelativeDocumentMoniker": "exer40\\exer40.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer40\\exer40.csproj",
+              "RelativeToolTip": "exer40\\exer40.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:09:59.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.resx",
+              "RelativeDocumentMoniker": "exer39\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.resx",
+              "RelativeToolTip": "exer39\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:09:48.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer39\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.Designer.cs",
+              "RelativeToolTip": "exer39\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:09:42.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.cs",
+              "RelativeDocumentMoniker": "exer39\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Form1.cs",
+              "RelativeToolTip": "exer39\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:09:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Program.cs",
+              "RelativeDocumentMoniker": "exer39\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\Program.cs",
+              "RelativeToolTip": "exer39\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:09:33.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "exer39.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\exer39.csproj",
+              "RelativeDocumentMoniker": "exer39\\exer39.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer39\\exer39.csproj",
+              "RelativeToolTip": "exer39\\exer39.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:09:30.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.resx",
+              "RelativeDocumentMoniker": "exer38\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.resx",
+              "RelativeToolTip": "exer38\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:08:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer38\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.Designer.cs",
+              "RelativeToolTip": "exer38\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:38.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.cs",
+              "RelativeDocumentMoniker": "exer38\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Form1.cs",
+              "RelativeToolTip": "exer38\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Program.cs",
+              "RelativeDocumentMoniker": "exer38\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\Program.cs",
+              "RelativeToolTip": "exer38\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:30.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "exer38.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\exer38.csproj",
+              "RelativeDocumentMoniker": "exer38\\exer38.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer38\\exer38.csproj",
+              "RelativeToolTip": "exer38\\exer38.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:08:27.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.resx",
+              "RelativeDocumentMoniker": "exer37\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.resx",
+              "RelativeToolTip": "exer37\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:08:24.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer37\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.Designer.cs",
+              "RelativeToolTip": "exer37\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:19.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.cs",
+              "RelativeDocumentMoniker": "exer37\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Form1.cs",
+              "RelativeToolTip": "exer37\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:16.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Program.cs",
+              "RelativeDocumentMoniker": "exer37\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\Program.cs",
+              "RelativeToolTip": "exer37\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:11.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "exer37.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\exer37.csproj",
+              "RelativeDocumentMoniker": "exer37\\exer37.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer37\\exer37.csproj",
+              "RelativeToolTip": "exer37\\exer37.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:08:09.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.cs",
+              "RelativeDocumentMoniker": "exer36\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.cs",
+              "RelativeToolTip": "exer36\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:04.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.resx",
+              "RelativeDocumentMoniker": "exer36\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.resx",
+              "RelativeToolTip": "exer36\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:08:04.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer36\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Form1.Designer.cs",
+              "RelativeToolTip": "exer36\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "exer36.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\exer36.csproj",
+              "RelativeDocumentMoniker": "exer36\\exer36.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\exer36.csproj",
+              "RelativeToolTip": "exer36\\exer36.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:08:03.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Program.cs",
+              "RelativeDocumentMoniker": "exer36\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer36\\Program.cs",
+              "RelativeToolTip": "exer36\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:03.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.resx",
+              "RelativeDocumentMoniker": "exer35\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.resx",
+              "RelativeToolTip": "exer35\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:07:38.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer35\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.Designer.cs",
+              "RelativeToolTip": "exer35\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:07:32.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.cs",
+              "RelativeDocumentMoniker": "exer35\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Form1.cs",
+              "RelativeToolTip": "exer35\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:07:30.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Program.cs",
+              "RelativeDocumentMoniker": "exer35\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\Program.cs",
+              "RelativeToolTip": "exer35\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:07:25.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "exer35.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\exer35.csproj",
+              "RelativeDocumentMoniker": "exer35\\exer35.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer35\\exer35.csproj",
+              "RelativeToolTip": "exer35\\exer35.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:07:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.resx",
+              "RelativeDocumentMoniker": "exer34\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.resx",
+              "RelativeToolTip": "exer34\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:07:21.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer34\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.Designer.cs",
+              "RelativeToolTip": "exer34\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:07:15.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.cs",
+              "RelativeDocumentMoniker": "exer34\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Form1.cs",
+              "RelativeToolTip": "exer34\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:07:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Program.cs",
+              "RelativeDocumentMoniker": "exer34\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\Program.cs",
+              "RelativeToolTip": "exer34\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:07:08.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "exer34.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\exer34.csproj",
+              "RelativeDocumentMoniker": "exer34\\exer34.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer34\\exer34.csproj",
+              "RelativeToolTip": "exer34\\exer34.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:07:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.resx",
+              "RelativeDocumentMoniker": "exer33\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.resx",
+              "RelativeToolTip": "exer33\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:07:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer33\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.Designer.cs",
+              "RelativeToolTip": "exer33\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.cs",
+              "RelativeDocumentMoniker": "exer33\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Form1.cs",
+              "RelativeToolTip": "exer33\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:56.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Program.cs",
+              "RelativeDocumentMoniker": "exer33\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\Program.cs",
+              "RelativeToolTip": "exer33\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:52.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "exer33.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\exer33.csproj",
+              "RelativeDocumentMoniker": "exer33\\exer33.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer33\\exer33.csproj",
+              "RelativeToolTip": "exer33\\exer33.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:06:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.resx",
+              "RelativeDocumentMoniker": "exer32\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.resx",
+              "RelativeToolTip": "exer32\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:06:48.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer32\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.Designer.cs",
+              "RelativeToolTip": "exer32\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.cs",
+              "RelativeDocumentMoniker": "exer32\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Form1.cs",
+              "RelativeToolTip": "exer32\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:38.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Program.cs",
+              "RelativeDocumentMoniker": "exer32\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\Program.cs",
+              "RelativeToolTip": "exer32\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "exer32.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\exer32.csproj",
+              "RelativeDocumentMoniker": "exer32\\exer32.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer32\\exer32.csproj",
+              "RelativeToolTip": "exer32\\exer32.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:06:33.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.resx",
+              "RelativeDocumentMoniker": "exer30\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.resx",
+              "RelativeToolTip": "exer30\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:06:31.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer30\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.Designer.cs",
+              "RelativeToolTip": "exer30\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:25.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.cs",
+              "RelativeDocumentMoniker": "exer30\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Form1.cs",
+              "RelativeToolTip": "exer30\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:23.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Program.cs",
+              "RelativeDocumentMoniker": "exer30\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\Program.cs",
+              "RelativeToolTip": "exer30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:20.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "exer30.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\exer30.csproj",
+              "RelativeDocumentMoniker": "exer30\\exer30.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer30\\exer30.csproj",
+              "RelativeToolTip": "exer30\\exer30.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:06:18.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.resx",
+              "RelativeDocumentMoniker": "exer29\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.resx",
+              "RelativeToolTip": "exer29\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:06:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer29\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.Designer.cs",
+              "RelativeToolTip": "exer29\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:07.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.cs",
+              "RelativeDocumentMoniker": "exer29\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Form1.cs",
+              "RelativeToolTip": "exer29\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Program.cs",
+              "RelativeDocumentMoniker": "exer29\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\Program.cs",
+              "RelativeToolTip": "exer29\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:06:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "exer29.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\exer29.csproj",
+              "RelativeDocumentMoniker": "exer29\\exer29.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer29\\exer29.csproj",
+              "RelativeToolTip": "exer29\\exer29.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:06:00.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer27\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.Designer.cs",
+              "RelativeToolTip": "exer27\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:05:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.cs",
+              "RelativeDocumentMoniker": "exer27\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.cs",
+              "RelativeToolTip": "exer27\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:05:54.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "exer28.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\exer28.csproj",
+              "RelativeDocumentMoniker": "exer28\\exer28.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\exer28.csproj",
+              "RelativeToolTip": "exer28\\exer28.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:05:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Program.cs",
+              "RelativeDocumentMoniker": "exer28\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Program.cs",
+              "RelativeToolTip": "exer28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:05:54.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.resx",
+              "RelativeDocumentMoniker": "exer27\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Form1.resx",
+              "RelativeToolTip": "exer27\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:05:54.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.cs",
+              "RelativeDocumentMoniker": "exer28\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.cs",
+              "RelativeToolTip": "exer28\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:05:54.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer28\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.Designer.cs",
+              "RelativeToolTip": "exer28\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:05:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Program.cs",
+              "RelativeDocumentMoniker": "exer27\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\Program.cs",
+              "RelativeToolTip": "exer27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:05:54.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.resx",
+              "RelativeDocumentMoniker": "exer28\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer28\\Form1.resx",
+              "RelativeToolTip": "exer28\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:05:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "exer27.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\exer27.csproj",
+              "RelativeDocumentMoniker": "exer27\\exer27.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer27\\exer27.csproj",
+              "RelativeToolTip": "exer27\\exer27.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:05:53.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.resx",
+              "RelativeDocumentMoniker": "exer26\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.resx",
+              "RelativeToolTip": "exer26\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:05:38.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer26\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.Designer.cs",
+              "RelativeToolTip": "exer26\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:05:32.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.cs",
+              "RelativeDocumentMoniker": "exer26\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Form1.cs",
+              "RelativeToolTip": "exer26\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:05:30.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Program.cs",
+              "RelativeDocumentMoniker": "exer26\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\Program.cs",
+              "RelativeToolTip": "exer26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:04:13.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "exer26.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\exer26.csproj",
+              "RelativeDocumentMoniker": "exer26\\exer26.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer26\\exer26.csproj",
+              "RelativeToolTip": "exer26\\exer26.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:04:11.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.resx",
+              "RelativeDocumentMoniker": "exer25\\Form1.resx",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.resx",
+              "RelativeToolTip": "exer25\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-15T03:04:09.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "exer25\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.Designer.cs",
+              "RelativeToolTip": "exer25\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:04:04.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.cs",
+              "RelativeDocumentMoniker": "exer25\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Form1.cs",
+              "RelativeToolTip": "exer25\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:04:02.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Program.cs",
+              "RelativeDocumentMoniker": "exer25\\Program.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\Program.cs",
+              "RelativeToolTip": "exer25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:03:56.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exer25.csproj",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\exer25.csproj",
+              "RelativeDocumentMoniker": "exer25\\exer25.csproj",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer25\\exer25.csproj",
+              "RelativeToolTip": "exer25\\exer25.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T03:03:55.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer24\\Form1.cs",
+              "RelativeDocumentMoniker": "exer24\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer24\\Form1.cs",
+              "RelativeToolTip": "exer24\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:01:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer24\\Form1.cs",
+              "RelativeDocumentMoniker": "exer24\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador4\\Desktop\\Projectos\\C#\\exer24\\exer24\\Form1.cs [Projeto]",
+              "RelativeToolTip": "exer24\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:56:18.523Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

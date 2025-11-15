@@ -1,0 +1,65 @@
+﻿using System.Windows.Forms;
+
+namespace tarefa
+{
+    partial class FormMenu
+    {
+        private System.ComponentModel.IContainer components = null;
+        private Button btnExercicio13;
+        private Button btnExercicio14;
+        private Label labelTitulo;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            labelTitulo = new Label();
+            btnExercicio13 = new Button();
+            btnExercicio14 = new Button();
+
+            SuspendLayout();
+
+            labelTitulo.AutoSize = true;
+            labelTitulo.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            labelTitulo.Location = new Point(50, 20);
+            labelTitulo.Name = "labelTitulo";
+            labelTitulo.Size = new Size(300, 40);
+            labelTitulo.Text = "Selecione um Programa";
+
+            btnExercicio13.Location = new Point(50, 80);
+            btnExercicio13.Name = "btnExercicio13";
+            btnExercicio13.Size = new Size(300, 60);
+            btnExercicio13.Text = "Exercício 13\nAbreviador de Nomes";
+            btnExercicio13.UseVisualStyleBackColor = true;
+            btnExercicio13.Click += btnExercicio13_Click;
+
+            btnExercicio14.Location = new Point(50, 160);
+            btnExercicio14.Name = "btnExercicio14";
+            btnExercicio14.Size = new Size(300, 60);
+            btnExercicio14.Text = "Exercício 14\nComparador de Palavras";
+            btnExercicio14.UseVisualStyleBackColor = true;
+            btnExercicio14.Click += btnExercicio14_Click;
+
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(400, 280);
+            Controls.Add(btnExercicio14);
+            Controls.Add(btnExercicio13);
+            Controls.Add(labelTitulo);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
+            MaximizeBox = false;
+            MinimizeBox = false;
+            Name = "FormMenu";
+            Text = "Menu Principal";
+            ResumeLayout(false);
+            PerformLayout();
+        }
+    }
+}

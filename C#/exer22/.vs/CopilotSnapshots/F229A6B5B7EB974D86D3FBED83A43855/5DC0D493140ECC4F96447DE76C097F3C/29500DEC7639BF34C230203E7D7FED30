@@ -1,0 +1,79 @@
+﻿namespace exer22
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ButtonProcessar_Click(object sender, EventArgs e)
+        {
+            textBoxSaida.Clear();
+            int[] vetor = new int[20];
+            
+            string entrada = textBoxEntrada.Text.Trim();
+            
+            if (string.IsNullOrEmpty(entrada))
+            {
+                MessageBox.Show("Por favor, introduza os valores.", "Entrada Vazia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            string[] partes = entrada.Split(new char[] { ' ', ',', ';', '\n', '\r', '\t' }, StringSplitOptions.RemoveEmptyEntries);
+
+            if (partes.Length != 20)
+            {
+                MessageBox.Show($"Deve introduzir exactamente 20 números. Foram introduzidos {partes.Length}.", "Erro na Quantidade", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            bool validacao = true;
+            for (int i = 0; i < 20; i++)
+            {
+                if (int.TryParse(partes[i], out int numero))
+                {
+                    if (numero > 0)
+                    {
+                        vetor[i] = numero;
+                    }
+                    else
+                    {
+                        MessageBox.Show($"O número na posição {i + 1} ({numero}) não é positivo.", "Erro de Validação", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        validacao = false;
+                        break;
+                    }
+                }
+                else
+                {
+                    MessageBox.Show($"O valor na posição {i + 1} ({partes[i]}) não é um número válido.", "Erro de Validação", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    validacao = false;
+                    break;
+                }
+            }
+
+            if (validacao)
+            {
+                int maiorElemento = vetor[0];
+                int posicao = 0;
+
+                for (int i = 1; i < 20; i++)
+                {
+                    if (vetor[i] > maiorElemento)
+                    {
+                        maiorElemento = vetor[i];
+                        posicao = i;
+                    }
+                }
+
+                textBoxSaida.Text = $"O maior elemento do vetor Q é: {maiorElemento}\n";
+                textBoxSaida.Text += $"A posição que ocupa no vetor é: {posicao + 1}";
+            }
+        }
+    }
+}

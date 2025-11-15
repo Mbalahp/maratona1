@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\bin\Debug\exercicio_1.exe.config
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\bin\Debug\exercicio_1.exe
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\bin\Debug\exercicio_1.pdb
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\obj\Debug\exercicio_1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\obj\Debug\exercicio_1.Form1.resources
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\obj\Debug\exercicio_1.Properties.Resources.resources
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\obj\Debug\exercicio_1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\obj\Debug\exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\obj\Debug\exercicio_1.exe
+C:\Users\hp\Desktop\Novembro_louco\c#\exercicio_1\obj\Debug\exercicio_1.pdb

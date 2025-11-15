@@ -1,0 +1,1 @@
+namespace exer48{public partial class Form1:Form{public Form1(){InitializeComponent();}private void Form1_Load(object sender,EventArgs e){long soma=0;long termo=3;while(termo<=6561){soma+=termo;termo*=3;}MessageBox.Show($"Soma progressão geométrica 3;9;27...6561:\n{soma}");} }}

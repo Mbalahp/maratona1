@@ -1,0 +1,16 @@
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\bin\Debug\net10.0-windows\exer21.exe
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\bin\Debug\net10.0-windows\exer21.deps.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\bin\Debug\net10.0-windows\exer21.runtimeconfig.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\bin\Debug\net10.0-windows\exer21.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\bin\Debug\net10.0-windows\exer21.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.Form1.resources
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.csproj.GenerateResource.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.AssemblyInfoInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.AssemblyInfo.cs
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\refint\exer21.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\exer21.genruntimeconfig.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer21\exer21\obj\Debug\net10.0-windows\ref\exer21.dll

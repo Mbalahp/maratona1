@@ -1,0 +1,1 @@
+namespace exer46{public partial class Form1:Form{public Form1(){InitializeComponent();}private void Form1_Load(object sender,EventArgs e){int soma=0;int x=1;do{soma+=x;x++;}while(x<=10);MessageBox.Show($"Soma de 1 a 10 (do..while): {soma}");} }}

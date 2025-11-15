@@ -1,0 +1,69 @@
+﻿namespace exer23
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            
+            Label labelBase = new Label();
+            labelBase.Text = "Tamanho da Base (5-15):";
+            labelBase.Location = new Point(20, 20);
+            labelBase.AutoSize = true;
+            
+            TextBox textBoxBase = new TextBox();
+            textBoxBase.Name = "textBoxBase";
+            textBoxBase.Location = new Point(160, 20);
+            textBoxBase.Width = 100;
+            
+            Button buttonGerar = new Button();
+            buttonGerar.Text = "Gerar Triângulo";
+            buttonGerar.Location = new Point(270, 20);
+            buttonGerar.Click += ButtonGerar_Click;
+            
+            TextBox textBoxTriangle = new TextBox();
+            textBoxTriangle.Name = "textBoxTriangle";
+            textBoxTriangle.Location = new Point(20, 60);
+            textBoxTriangle.Size = new Size(600, 350);
+            textBoxTriangle.Multiline = true;
+            textBoxTriangle.ReadOnly = true;
+            textBoxTriangle.Font = new Font("Courier New", 10);
+            textBoxTriangle.ScrollBars = ScrollBars.Both;
+            
+            Controls.Add(labelBase);
+            Controls.Add(textBoxBase);
+            Controls.Add(buttonGerar);
+            Controls.Add(textBoxTriangle);
+            
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Text = "Triângulo com Caracteres";
+        }
+
+        #endregion
+    }
+}

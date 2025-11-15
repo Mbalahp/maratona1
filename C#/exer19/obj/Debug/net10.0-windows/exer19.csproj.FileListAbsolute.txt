@@ -1,0 +1,16 @@
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\bin\Debug\net10.0-windows\exer19.exe
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\bin\Debug\net10.0-windows\exer19.deps.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\bin\Debug\net10.0-windows\exer19.runtimeconfig.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\bin\Debug\net10.0-windows\exer19.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\bin\Debug\net10.0-windows\exer19.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.Form1.resources
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.csproj.GenerateResource.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.AssemblyInfoInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.AssemblyInfo.cs
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\refint\exer19.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\exer19.genruntimeconfig.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer19\exer19\obj\Debug\net10.0-windows\ref\exer19.dll

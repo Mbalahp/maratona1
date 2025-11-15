@@ -1,0 +1,36 @@
+namespace exer16
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void ButtonCalcular_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                double populacaoA = double.Parse(((TextBox)Controls["textBoxPopulacaoA"]).Text);
+                double taxaA = double.Parse(((TextBox)Controls["textBoxTaxaA"]).Text);
+                double populacaoB = double.Parse(((TextBox)Controls["textBoxPopulacaoB"]).Text);
+                double taxaB = double.Parse(((TextBox)Controls["textBoxTaxaB"]).Text);
+
+                int anos = 0;
+
+                while (populacaoA < populacaoB)
+                {
+                    populacaoA = populacaoA * (1 + taxaA / 100);
+                    populacaoB = populacaoB * (1 + taxaB / 100);
+                    anos++;
+                }
+
+                ((Label)Controls["labelResultado"]).Text = anos.ToString();
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("Por favor, insira valores numéricos válidos.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+    }
+}

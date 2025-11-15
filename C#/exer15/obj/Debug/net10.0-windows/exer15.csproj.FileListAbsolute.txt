@@ -1,0 +1,17 @@
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\bin\Debug\net10.0-windows\exer15.exe
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\bin\Debug\net10.0-windows\exer15.deps.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\bin\Debug\net10.0-windows\exer15.runtimeconfig.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\bin\Debug\net10.0-windows\exer15.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\bin\Debug\net10.0-windows\exer15.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.Form1.resources
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.Form2.resources
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.csproj.GenerateResource.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.AssemblyInfoInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.AssemblyInfo.cs
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\refint\exer15.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\exer15.genruntimeconfig.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer15\exer15\obj\Debug\net10.0-windows\ref\exer15.dll

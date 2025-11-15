@@ -1,0 +1,24 @@
+﻿using System.Windows.Forms;
+
+namespace tarefa
+{
+    public partial class FormMenu : Form
+    {
+        public FormMenu()
+        {
+            InitializeComponent();
+        }
+
+        private void btnExercicio13_Click(object sender, EventArgs e)
+        {
+            FormAbreviador form = new FormAbreviador();
+            form.Show();
+        }
+
+        private void btnExercicio14_Click(object sender, EventArgs e)
+        {
+            FormComparador form = new FormComparador();
+            form.Show();
+        }
+    }
+}

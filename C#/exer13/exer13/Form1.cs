@@ -1,0 +1,33 @@
+tarefa\Form1.cs
+using System;
+using System.Linq;
+using System.Windows.Forms;
+
+namespace tarefa
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnAbreviar_Click(object sender, EventArgs e)
+        {
+            var nome = txtNome.Text.Trim();
+            if (string.IsNullOrEmpty(nome))
+            {
+                txtResultado.Text = "";
+                return;
+            }
+            var partes = nome.Split((char[])null, StringSplitOptions.RemoveEmptyEntries);
+            var resultado = string.Join(" ", partes.Select(p =>
+            {
+                var s = p.Trim();
+                if (s.Length <= 2) return s.ToLowerInvariant();
+                return char.ToUpperInvariant(s[0]) + ".";
+            }));
+            txtResultado.Text = resultado;
+        }
+    }
+}

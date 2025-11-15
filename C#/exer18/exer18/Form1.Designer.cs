@@ -1,0 +1,94 @@
+﻿namespace exer18
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            
+            Label labelNumero = new Label();
+            labelNumero.Text = "Montar a tabuada de:";
+            labelNumero.Location = new Point(20, 20);
+            labelNumero.Size = new Size(150, 20);
+
+            TextBox textBoxNumero = new TextBox();
+            textBoxNumero.Location = new Point(180, 20);
+            textBoxNumero.Size = new Size(100, 25);
+            textBoxNumero.Name = "textBoxNumero";
+
+            Label labelInicio = new Label();
+            labelInicio.Text = "Começar por:";
+            labelInicio.Location = new Point(20, 60);
+            labelInicio.Size = new Size(150, 20);
+
+            TextBox textBoxInicio = new TextBox();
+            textBoxInicio.Location = new Point(180, 60);
+            textBoxInicio.Size = new Size(100, 25);
+            textBoxInicio.Name = "textBoxInicio";
+
+            Label labelFim = new Label();
+            labelFim.Text = "Terminar em:";
+            labelFim.Location = new Point(20, 100);
+            labelFim.Size = new Size(150, 20);
+
+            TextBox textBoxFim = new TextBox();
+            textBoxFim.Location = new Point(180, 100);
+            textBoxFim.Size = new Size(100, 25);
+            textBoxFim.Name = "textBoxFim";
+
+            Button buttonGerar = new Button();
+            buttonGerar.Text = "Gerar Tabuada";
+            buttonGerar.Location = new Point(180, 140);
+            buttonGerar.Size = new Size(100, 35);
+            buttonGerar.Name = "buttonGerar";
+            buttonGerar.Click += ButtonGerar_Click;
+
+            TextBox textBoxResultado = new TextBox();
+            textBoxResultado.Location = new Point(20, 190);
+            textBoxResultado.Size = new Size(260, 220);
+            textBoxResultado.Multiline = true;
+            textBoxResultado.ScrollBars = ScrollBars.Vertical;
+            textBoxResultado.ReadOnly = true;
+            textBoxResultado.Name = "textBoxResultado";
+
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Text = "Tabuada";
+            
+            Controls.Add(labelNumero);
+            Controls.Add(textBoxNumero);
+            Controls.Add(labelInicio);
+            Controls.Add(textBoxInicio);
+            Controls.Add(labelFim);
+            Controls.Add(textBoxFim);
+            Controls.Add(buttonGerar);
+            Controls.Add(textBoxResultado);
+        }
+
+        #endregion
+    }
+}

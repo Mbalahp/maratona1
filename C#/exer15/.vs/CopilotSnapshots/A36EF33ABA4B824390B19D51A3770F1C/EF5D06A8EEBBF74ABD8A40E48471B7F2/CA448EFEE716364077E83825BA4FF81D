@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using System.Linq;
+
+namespace exer15
+{
+    public partial class Form2 : Form
+    {
+        public Form2()
+        {
+            InitializeComponent();
+        }
+
+        private void ButtonSort_Click(object sender, EventArgs e)
+        {
+            string input = textBoxNames.Text.Trim();
+
+            if (string.IsNullOrEmpty(input))
+            {
+                MessageBox.Show("Please enter names separated by commas.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            List<string> names = input.Split(',')
+                .Select(name => name.Trim())
+                .Where(name => !string.IsNullOrEmpty(name))
+                .ToList();
+
+            if (names.Count == 0)
+            {
+                MessageBox.Show("No valid names found.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            names.Sort();
+
+            listBoxSorted.Items.Clear();
+            foreach (string name in names)
+            {
+                listBoxSorted.Items.Add(name);
+            }
+        }
+
+        private void ButtonClear_Click(object sender, EventArgs e)
+        {
+            textBoxNames.Clear();
+            listBoxSorted.Items.Clear();
+            textBoxNames.Focus();
+        }
+    }
+}

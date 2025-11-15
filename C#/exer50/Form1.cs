@@ -1,0 +1,1 @@
+namespace exer50{public partial class Form1:Form{public Form1(){InitializeComponent();}private void Form1_Load(object sender,EventArgs e){MessageBox.Show("Exer 50 - Dados Hotéis\na) Hotéis > 15km\nb) Média visitantes acesso não asfaltado\nc) Hotéis asfaltados < 1000 visitantes");} }}

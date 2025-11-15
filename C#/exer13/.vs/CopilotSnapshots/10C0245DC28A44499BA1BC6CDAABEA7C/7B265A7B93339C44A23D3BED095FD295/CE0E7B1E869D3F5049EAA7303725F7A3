@@ -1,0 +1,55 @@
+﻿using System.Windows.Forms;
+
+namespace tarefa
+{
+    partial class FormMenu
+    {
+        private System.ComponentModel.IContainer components = null;
+        private Button btnExercicio13;
+        private Label labelTitulo;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            labelTitulo = new Label();
+            btnExercicio13 = new Button();
+
+            SuspendLayout();
+
+            labelTitulo.AutoSize = true;
+            labelTitulo.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            labelTitulo.Location = new Point(50, 20);
+            labelTitulo.Name = "labelTitulo";
+            labelTitulo.Size = new Size(300, 40);
+            labelTitulo.Text = "Abreviador de Nomes";
+
+            btnExercicio13.Location = new Point(50, 80);
+            btnExercicio13.Name = "btnExercicio13";
+            btnExercicio13.Size = new Size(300, 60);
+            btnExercicio13.Text = "Abreviador de Nomes";
+            btnExercicio13.UseVisualStyleBackColor = true;
+            btnExercicio13.Click += btnExercicio13_Click;
+
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(400, 180);
+            Controls.Add(btnExercicio13);
+            Controls.Add(labelTitulo);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
+            MaximizeBox = false;
+            MinimizeBox = false;
+            Name = "FormMenu";
+            Text = "Menu Principal";
+            ResumeLayout(false);
+            PerformLayout();
+        }
+    }
+}

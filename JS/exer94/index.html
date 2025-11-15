@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exer94</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="s1">
+        <input id="qtd" type="number" placeholder="Quantos números (n)">
+        <button onclick="iniciar()">Iniciar</button>
+    </div>
+    <div id="s2" style="display:none;">
+        <input id="num" type="number" placeholder="Digite um número">
+        <button onclick="addNum()">Adicionar</button>
+        <p>Números lidos: <span id="c">0</span>/<span id="total"></span></p>
+    </div>
+    <div id="res"></div>
+    <script src="exer94.js"></script>
+</body>
+</html>

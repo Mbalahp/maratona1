@@ -1,0 +1,16 @@
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\bin\Debug\net10.0-windows\exer23.exe
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\bin\Debug\net10.0-windows\exer23.deps.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\bin\Debug\net10.0-windows\exer23.runtimeconfig.json
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\bin\Debug\net10.0-windows\exer23.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\bin\Debug\net10.0-windows\exer23.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.Form1.resources
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.csproj.GenerateResource.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.AssemblyInfoInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.AssemblyInfo.cs
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\refint\exer23.dll
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.pdb
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\exer23.genruntimeconfig.cache
+C:\Users\Utilizador4\Desktop\Projectos\C#\exer23\exer23\obj\Debug\net10.0-windows\ref\exer23.dll

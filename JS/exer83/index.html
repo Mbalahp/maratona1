@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exer83</title>
+</head>
+<body>
+    <p>a. Apenas números:</p>
+    <input id="numOnly" onkeypress="return isNumberKey(event)">
+    <p>b. Apenas texto:</p>
+    <input id="textOnly" onkeypress="return isTextKey(event)">
+    <p>c. Apenas números pares:</p>
+    <input id="evenOnly" onchange="checkEven(this)">
+    <p>d. Apenas vogais:</p>
+    <input id="vowelOnly" onkeypress="return isVowelKey(event)">
+    <p>e. Apenas números primos:</p>
+    <input id="primeOnly" onchange="checkPrime(this)">
+    <p>f. Apenas valores de uma lista:</p>
+    <input id="listOnly" onchange="checkList(this)">
+    <p id="res"></p>
+    <script src="exer83.js"></script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+﻿namespace exer19
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        
+        private void ButtonAnalyze_Click(object sender, EventArgs e)
+        {
+            string input = textBoxInput.Text;
+            
+            if (string.IsNullOrEmpty(input))
+            {
+                textBoxResults.Text = "Por favor, digite uma string.";
+                return;
+            }
+            
+            StringBuilder results = new StringBuilder();
+            
+            results.AppendLine($"a) Número de caracteres: {CountCharacters(input)}");
+            results.AppendLine($"b) String em maiúsculas: {input.ToUpper()}");
+            results.AppendLine($"c) Número de vogais: {CountVowels(input)}");
+            results.AppendLine($"d) Começa com \"UNI\": {StartsWithUNI(input)}");
+            results.AppendLine($"e) Termina com \"RIO\": {EndsWithRIO(input)}");
+            results.AppendLine($"f) Número de dígitos: {CountDigits(input)}");
+            results.AppendLine($"g) É um palíndromo: {IsPalindrome(input)}");
+            
+            textBoxResults.Text = results.ToString();
+        }
+        
+        private int CountCharacters(string str)
+        {
+            return str.Length;
+        }
+        
+        private int CountVowels(string str)
+        {
+            int count = 0;
+            string vowels = "aeiouAEIOU";
+            foreach (char c in str)
+            {
+                if (vowels.Contains(c))
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
+        
+        private bool StartsWithUNI(string str)
+        {
+            return str.StartsWith("UNI", StringComparison.OrdinalIgnoreCase);
+        }
+        
+        private bool EndsWithRIO(string str)
+        {
+            return str.EndsWith("RIO", StringComparison.OrdinalIgnoreCase);
+        }
+        
+        private int CountDigits(string str)
+        {
+            int count = 0;
+            foreach (char c in str)
+            {
+                if (char.IsDigit(c))
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
+        
+        private bool IsPalindrome(string str)
+        {
+            string cleaned = new string(str.Where(c => !char.IsWhiteSpace(c)).ToArray()).ToLower();
+            string reversed = new string(cleaned.Reverse().ToArray());
+            return cleaned == reversed;
+        }
+    }
+}

@@ -1,0 +1,1 @@
+namespace exer41{public partial class Form1:Form{public Form1(){InitializeComponent();}private void Form1_Load(object sender,EventArgs e){string fib="";long a=0,b=1;for(int i=0;i<20;i++){fib+=a+" ";long temp=a+b;a=b;b=temp;}MessageBox.Show($"Série Fibonacci (20 termos):\n{fib}");} }}

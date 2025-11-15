@@ -1,0 +1,106 @@
+﻿namespace exer15
+{
+    partial class Form2
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.labelInputNames = new System.Windows.Forms.Label();
+            this.textBoxNames = new System.Windows.Forms.TextBox();
+            this.buttonSort = new System.Windows.Forms.Button();
+            this.labelSortedNames = new System.Windows.Forms.Label();
+            this.listBoxSorted = new System.Windows.Forms.ListBox();
+            this.buttonClear = new System.Windows.Forms.Button();
+
+            this.SuspendLayout();
+
+            this.labelInputNames.AutoSize = true;
+            this.labelInputNames.Location = new System.Drawing.Point(12, 9);
+            this.labelInputNames.Name = "labelInputNames";
+            this.labelInputNames.Size = new System.Drawing.Size(177, 15);
+            this.labelInputNames.TabIndex = 0;
+            this.labelInputNames.Text = "Enter names separated by commas:";
+
+            this.textBoxNames.Location = new System.Drawing.Point(12, 27);
+            this.textBoxNames.Multiline = true;
+            this.textBoxNames.Name = "textBoxNames";
+            this.textBoxNames.Size = new System.Drawing.Size(760, 100);
+            this.textBoxNames.TabIndex = 1;
+
+            this.buttonSort.Location = new System.Drawing.Point(12, 133);
+            this.buttonSort.Name = "buttonSort";
+            this.buttonSort.Size = new System.Drawing.Size(75, 23);
+            this.buttonSort.TabIndex = 2;
+            this.buttonSort.Text = "Sort";
+            this.buttonSort.UseVisualStyleBackColor = true;
+            this.buttonSort.Click += new System.EventHandler(this.ButtonSort_Click);
+
+            this.buttonClear.Location = new System.Drawing.Point(93, 133);
+            this.buttonClear.Name = "buttonClear";
+            this.buttonClear.Size = new System.Drawing.Size(75, 23);
+            this.buttonClear.TabIndex = 3;
+            this.buttonClear.Text = "Clear";
+            this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.ButtonClear_Click);
+
+            this.labelSortedNames.AutoSize = true;
+            this.labelSortedNames.Location = new System.Drawing.Point(12, 162);
+            this.labelSortedNames.Name = "labelSortedNames";
+            this.labelSortedNames.Size = new System.Drawing.Size(79, 15);
+            this.labelSortedNames.TabIndex = 4;
+            this.labelSortedNames.Text = "Sorted Names:";
+
+            this.listBoxSorted.FormattingEnabled = true;
+            this.listBoxSorted.ItemHeight = 15;
+            this.listBoxSorted.Location = new System.Drawing.Point(12, 180);
+            this.listBoxSorted.Name = "listBoxSorted";
+            this.listBoxSorted.Size = new System.Drawing.Size(760, 259);
+            this.listBoxSorted.TabIndex = 5;
+
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(784, 450);
+            this.Controls.Add(this.listBoxSorted);
+            this.Controls.Add(this.labelSortedNames);
+            this.Controls.Add(this.buttonClear);
+            this.Controls.Add(this.buttonSort);
+            this.Controls.Add(this.textBoxNames);
+            this.Controls.Add(this.labelInputNames);
+            this.Name = "Form2";
+            this.Text = "Name Sorter";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label labelInputNames;
+        private System.Windows.Forms.TextBox textBoxNames;
+        private System.Windows.Forms.Button buttonSort;
+        private System.Windows.Forms.Label labelSortedNames;
+        private System.Windows.Forms.ListBox listBoxSorted;
+        private System.Windows.Forms.Button buttonClear;
+    }
+}

@@ -1,0 +1,92 @@
+﻿namespace exer21
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            
+            Label lblInstructions = new Label();
+            lblInstructions.Text = "Digite 10 Nomes:";
+            lblInstructions.Location = new Point(20, 20);
+            lblInstructions.AutoSize = true;
+
+            TextBox txtName = new TextBox();
+            txtName.Location = new Point(20, 50);
+            txtName.Width = 300;
+            txtName.Name = "txtName";
+
+            Button btnAddName = new Button();
+            btnAddName.Text = "Adicionar Nome";
+            btnAddName.Location = new Point(330, 50);
+            btnAddName.Name = "btnAddName";
+
+            ListBox lstNames = new ListBox();
+            lstNames.Location = new Point(20, 90);
+            lstNames.Width = 300;
+            lstNames.Height = 150;
+            lstNames.Name = "lstNames";
+
+            Label lblSearch = new Label();
+            lblSearch.Text = "Procurar um nome:";
+            lblSearch.Location = new Point(20, 250);
+            lblSearch.AutoSize = true;
+
+            TextBox txtSearch = new TextBox();
+            txtSearch.Location = new Point(20, 280);
+            txtSearch.Width = 300;
+            txtSearch.Name = "txtSearch";
+
+            Button btnSearch = new Button();
+            btnSearch.Text = "Procurar";
+            btnSearch.Location = new Point(330, 280);
+            btnSearch.Name = "btnSearch";
+
+            Label lblResult = new Label();
+            lblResult.Text = "";
+            lblResult.Location = new Point(20, 320);
+            lblResult.AutoSize = true;
+            lblResult.Font = new Font(lblResult.Font, FontStyle.Bold);
+            lblResult.Name = "lblResult";
+
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Text = "Algoritmo de Busca de Nomes";
+            
+            Controls.Add(lblInstructions);
+            Controls.Add(txtName);
+            Controls.Add(btnAddName);
+            Controls.Add(lstNames);
+            Controls.Add(lblSearch);
+            Controls.Add(txtSearch);
+            Controls.Add(btnSearch);
+            Controls.Add(lblResult);
+        }
+
+        #endregion
+    }
+}
